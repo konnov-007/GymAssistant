@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">UltimateGymAssistant</string>
+    <string name="action_settings">Settings</string>
+
+    <!--checker_fragment.xml-->
+    <string name="shoes">take shoes</string>
+    <string name="water">take water</string>
+    <string name="gloves">take gloves</string>
+    <string name="notebook">take notebook with pen</string>
+    <string name="shake">take protein shake</string>
+
+    <!--timer_fragment.xml-->
+    <string name="start_timer">start timer</string>
+    <string name="end_timer">stop timer</string>
+    <string name="pause_timer">pause timer</string>
+</resources>
